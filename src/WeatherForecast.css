@@ -1,0 +1,14 @@
+.WeatherForecast {
+  color: #2e2626;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.WeatherForecast-temperature-max {
+    margin-left: 6px;
+}
+
+.Weather .WeatherForecast canvas {
+  display: block;
+  margin: 20px auto;
+}

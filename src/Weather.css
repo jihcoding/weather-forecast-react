@@ -1,0 +1,32 @@
+.Weather {
+  font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
+  border-radius: 50px;
+  box-shadow: 0px 30px 50px rgba(0, 0, 0, 0.103);
+  padding: 40px;
+  color: white;
+}
+
+.Weather form {
+  margin-top: 15px;
+  border-bottom: 1px solid #f9f7fe;
+  padding-bottom: 30px;
+}
+
+.Weather .search-input {
+  background: #f9f7fe;
+  border: none;
+  padding: 10px 20px;
+  display: inline-block;
+  border-radius: 40px;
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 16px;
+}
+
+.Weather .btn {
+  background: rgb(143, 15, 143);
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 40px;
+  border: none;
+}
