@@ -1,0 +1,37 @@
+.WeatherInfo {
+  margin-top: 20px;
+}
+
+.City {
+  font-size: 39px;
+}
+
+.FormatDate {
+  font-size: 19px;
+  line-height: 12px;
+}
+
+.Weather-container {
+  position: relative;
+  padding-top: 15px;
+}
+
+.DisplayTemp {
+  font-size: 65px;
+  margin-left: 15px;
+}
+
+.units {
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  position: fixed;
+  margin-top: 18px;
+  margin-left: 4px;
+}
+
+.WeatherInfo ul {
+  color: rgba(231, 224, 224, 0.767);
+  font-size: 16px;
+  list-style: none;
+  margin-top: 10px;
+}
