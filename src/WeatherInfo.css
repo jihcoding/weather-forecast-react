@@ -18,15 +18,14 @@
 
 .DisplayTemp {
   font-size: 65px;
-  margin-left: 15px;
+  margin-left: 6px;
 }
 
 .units {
   color: rgb(255, 255, 255);
   font-size: 19px;
   position: fixed;
-  margin-top: 18px;
-  margin-left: 4px;
+  margin-top: 20px;
 }
 
 .WeatherInfo ul {

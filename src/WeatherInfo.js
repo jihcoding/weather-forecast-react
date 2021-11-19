@@ -25,7 +25,7 @@ export default function WeatherInfo(props) {
         </div>
       </div>
       <ul className="list">
-        <li>{props.data.description}</li>
+        <li className="text-capitalize">{props.data.description}</li>
         <li>Humidity: {props.data.humidity}%</li>
         <li>Wind: {props.data.wind} km/h</li>
       </ul>
