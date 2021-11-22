@@ -2,11 +2,10 @@ footer {
   font-size: 13px;
   text-align: center;
   color: #dfd7d7;
-  line-height: 4;
+  margin-top: 10px;
 }
 
 footer a {
   color: #470d3b;
   font-weight: 700;
-  
 }

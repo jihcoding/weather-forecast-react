@@ -24,7 +24,7 @@
 .units {
   color: rgb(255, 255, 255);
   font-size: 19px;
-  position: fixed;
+  position: absolute;
   margin-top: 20px;
 }
 
